@@ -18,7 +18,5 @@ s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3' }
 
  s.author             = { "hamed akhlaghi" => "akhlaghi65@gmail.com" }
 
-
-
 end
 
